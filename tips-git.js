@@ -10,7 +10,7 @@ Ext.define('EAM.custom.external_eugexm', {
                 },
 
                 afternewrecord: function () {
-                    
+                    // test ticket 2
                 },
 
                 afterrecordchange: function () {
