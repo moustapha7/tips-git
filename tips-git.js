@@ -13,9 +13,7 @@ Ext.define('EAM.custom.external_eugexm', {
                     // test ticket 2
                 },
 
-                afterrecordchange: function () {
-                 
-                },
+              
                 aftersaverecord: function () {
                  // test de brache ticket 1
                 },
