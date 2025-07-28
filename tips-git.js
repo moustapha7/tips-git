@@ -20,7 +20,7 @@ Ext.define('EAM.custom.external_eugexm', {
                  // test de brache ticket 1
                 },
                 afterrender: function () {
-                  
+                  console.log("test afterrende")
                 },
 
 
