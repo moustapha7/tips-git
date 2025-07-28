@@ -19,6 +19,7 @@ Ext.define('EAM.custom.external_eugexm', {
                 },
                 afterrender: function () {
                   //modification sur afterrender
+                  console.log('modif afterrender')
                 },
 
 
